@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 10px;
+    background: black;
+    font-family: Roboto;
+    font-size: small;
+
+
+}
+
+.post {
+    background: white;
+    width: 500px;
+    height: 800px;
+}
+
+.nombre-izq {
+    margin: 15px;
+}
+
+.header-izq {
+    display: flex;
+}
+
+#icono-html {
+    margin-top: 30px;
+}
+
+.post-heat {
+    width: 500px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+
+}
+
+.post-heat p {
+    margin: 0;
+    font-size: medium;
+
+}
+
+#menu {
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.post-imagen {
+    margin-top: 5px;
+    overflow: clip;
+    display: flex;
+    place-items: center;
+    height: 500px;
+    width: 500px;
+}
+
+.iconos-post {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 5px;
+}
+
+.post-footer {
+    margin: 5%;
+
+}
